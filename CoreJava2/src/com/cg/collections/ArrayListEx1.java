@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	list1.add(65);
 	list1.add(31);
 	list1.add(37);
-	
+	list1.add(37);
 	for(int a:list1) {
 		System.out.println(a);
 	}
